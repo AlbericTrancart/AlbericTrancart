@@ -1,16 +1,22 @@
-### Hi there 👋
+# Albéric Trancart
 
-<!--
-**AlbericTrancart/AlbericTrancart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working at [Theodo](https://www.theodo.fr/), I focus on building quality code at scale. I believe that maintainability lies in simplicty.
 
-Here are some ideas to get you started:
+> **Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.**
+>
+> _Antoine de Saint-Exupery_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am fond of:
+
+✨ space exploration<br />
+🔥 removing stuff in codebases<br />
+🐉 dungeons and dragons<br />
+🎨 CSS (checkout **[cssdojo](https://cssdojo.dev)**!)<br />
+📜 using semantic html<br />
+🎷 heavy metal and swing music<br />
+🎙 coaching developers to talk at conferences<br />
+🔥 removing even more code in your codebase<br />
+
+**[Learn more about me on my website](https://alberic.trancart.net/)**
+
+[![My Twitter profile](https://img.shields.io/twitter/follow/alberictrancart?logo=twitter&style=for-the-badge)](https://twitter.com/alberictrancart)
